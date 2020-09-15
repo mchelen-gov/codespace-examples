@@ -1,0 +1,13 @@
+{
+  // Github Codespaces devcontainer for create-react-app
+  "name": "create-react-app",
+
+  // Open port 3000 by default
+  "appPort": 3000,
+
+  // Install ESLint extension
+  "extensions": ["dbaeumer.vscode-eslint"],
+
+  // Install dependencies after Codespace creation
+  "postCreateCommand": "yarn install"
+}
