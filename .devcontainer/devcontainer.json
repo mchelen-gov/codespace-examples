@@ -9,5 +9,5 @@
   "extensions": ["dbaeumer.vscode-eslint"],
 
   // Install dependencies after Codespace creation
-  "postCreateCommand": "yarn install"
+  "postCreateCommand": "nvm install --lts"
 }
