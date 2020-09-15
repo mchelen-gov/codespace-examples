@@ -1,2 +1,2 @@
-# codespaces-examples
+# codespace-examples
 Example Github Codespaces
