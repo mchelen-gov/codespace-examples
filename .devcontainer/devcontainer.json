@@ -9,5 +9,5 @@
   "extensions": ["dbaeumer.vscode-eslint"],
 
   // Install dependencies after Codespace creation
-  "postCreateCommand": "nvm install --lts"
+  "postCreateCommand": "/usr/local/share/nvm install --lts"
 }
